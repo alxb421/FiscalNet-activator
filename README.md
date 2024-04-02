@@ -1,8 +1,7 @@
-<p align="center"><img src="https://driverfiscal.ro/wp-content/uploads/2022/04/group_11.png" alt="MAS Logo"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/alxb421/FiscalNet-activator/main/gh_logo.png" alt="MAS Logo"></p>
 
 <h1 align="center">FiscalNet Activator Script (FNAS)</h1>
 
-<p align="center">A FiscalNet Activator</p>
 
 <hr>
 
@@ -37,4 +36,4 @@ Release date: 02-Apr-2024
 
 ---
 
-<p align="center">Made with Love ❤️ by Alexandru Balan</p>
+<p align="center">Made with ❤️ by Alexandru Balan</p>
